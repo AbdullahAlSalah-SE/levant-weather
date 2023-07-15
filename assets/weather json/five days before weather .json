@@ -1,0 +1,1460 @@
+{
+  "cod": "200",
+  "message": 0,
+  "cnt": 40,
+  "list": [
+    {
+      "dt": 1683871200,
+      "main": {
+        "temp": 293.57,
+        "feels_like": 293.68,
+        "temp_min": 293.57,
+        "temp_max": 295.69,
+        "pressure": 1013,
+        "sea_level": 1013,
+        "grnd_level": 1011,
+        "humidity": 77,
+        "temp_kf": -2.12
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "سماء صافية",
+          "icon": "01d"
+        }
+      ],
+      "clouds": {
+        "all": 0
+      },
+      "wind": {
+        "speed": 5.06,
+        "deg": 346,
+        "gust": 6.78
+      },
+      "visibility": 10000,
+      "pop": 0,
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2023-05-12 06:00:00"
+    },
+    {
+      "dt": 1683882000,
+      "main": {
+        "temp": 296.26,
+        "feels_like": 296.19,
+        "temp_min": 296.26,
+        "temp_max": 301.63,
+        "pressure": 1013,
+        "sea_level": 1013,
+        "grnd_level": 1011,
+        "humidity": 60,
+        "temp_kf": -5.37
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "سماء صافية",
+          "icon": "01d"
+        }
+      ],
+      "clouds": {
+        "all": 0
+      },
+      "wind": {
+        "speed": 5.03,
+        "deg": 334,
+        "gust": 5.83
+      },
+      "visibility": 10000,
+      "pop": 0,
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2023-05-12 09:00:00"
+    },
+    {
+      "dt": 1683892800,
+      "main": {
+        "temp": 301.25,
+        "feels_like": 300.7,
+        "temp_min": 301.25,
+        "temp_max": 305.09,
+        "pressure": 1013,
+        "sea_level": 1013,
+        "grnd_level": 1010,
+        "humidity": 37,
+        "temp_kf": -3.84
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "سماء صافية",
+          "icon": "01d"
+        }
+      ],
+      "clouds": {
+        "all": 0
+      },
+      "wind": {
+        "speed": 6.43,
+        "deg": 318,
+        "gust": 6.64
+      },
+      "visibility": 10000,
+      "pop": 0,
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2023-05-12 12:00:00"
+    },
+    {
+      "dt": 1683903600,
+      "main": {
+        "temp": 302.86,
+        "feels_like": 301.3,
+        "temp_min": 302.86,
+        "temp_max": 302.86,
+        "pressure": 1014,
+        "sea_level": 1014,
+        "grnd_level": 1011,
+        "humidity": 24,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "سماء صافية",
+          "icon": "01d"
+        }
+      ],
+      "clouds": {
+        "all": 0
+      },
+      "wind": {
+        "speed": 9.26,
+        "deg": 328,
+        "gust": 7.36
+      },
+      "visibility": 10000,
+      "pop": 0,
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2023-05-12 15:00:00"
+    },
+    {
+      "dt": 1683914400,
+      "main": {
+        "temp": 296.98,
+        "feels_like": 296.57,
+        "temp_min": 296.98,
+        "temp_max": 296.98,
+        "pressure": 1017,
+        "sea_level": 1017,
+        "grnd_level": 1014,
+        "humidity": 44,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "سماء صافية",
+          "icon": "01n"
+        }
+      ],
+      "clouds": {
+        "all": 0
+      },
+      "wind": {
+        "speed": 7.97,
+        "deg": 340,
+        "gust": 8.9
+      },
+      "visibility": 10000,
+      "pop": 0,
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2023-05-12 18:00:00"
+    },
+    {
+      "dt": 1683925200,
+      "main": {
+        "temp": 293.27,
+        "feels_like": 292.96,
+        "temp_min": 293.27,
+        "temp_max": 293.27,
+        "pressure": 1018,
+        "sea_level": 1018,
+        "grnd_level": 1015,
+        "humidity": 62,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "سماء صافية",
+          "icon": "01n"
+        }
+      ],
+      "clouds": {
+        "all": 0
+      },
+      "wind": {
+        "speed": 5.08,
+        "deg": 357,
+        "gust": 6.69
+      },
+      "visibility": 10000,
+      "pop": 0,
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2023-05-12 21:00:00"
+    },
+    {
+      "dt": 1683936000,
+      "main": {
+        "temp": 291.52,
+        "feels_like": 291.21,
+        "temp_min": 291.52,
+        "temp_max": 291.52,
+        "pressure": 1018,
+        "sea_level": 1018,
+        "grnd_level": 1015,
+        "humidity": 69,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "سماء صافية",
+          "icon": "01n"
+        }
+      ],
+      "clouds": {
+        "all": 0
+      },
+      "wind": {
+        "speed": 3.88,
+        "deg": 352,
+        "gust": 5.12
+      },
+      "visibility": 10000,
+      "pop": 0,
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2023-05-13 00:00:00"
+    },
+    {
+      "dt": 1683946800,
+      "main": {
+        "temp": 290.35,
+        "feels_like": 290.14,
+        "temp_min": 290.35,
+        "temp_max": 290.35,
+        "pressure": 1018,
+        "sea_level": 1018,
+        "grnd_level": 1015,
+        "humidity": 77,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "سماء صافية",
+          "icon": "01n"
+        }
+      ],
+      "clouds": {
+        "all": 0
+      },
+      "wind": {
+        "speed": 3.5,
+        "deg": 1,
+        "gust": 4.65
+      },
+      "visibility": 10000,
+      "pop": 0,
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2023-05-13 03:00:00"
+    },
+    {
+      "dt": 1683957600,
+      "main": {
+        "temp": 293.12,
+        "feels_like": 292.77,
+        "temp_min": 293.12,
+        "temp_max": 293.12,
+        "pressure": 1019,
+        "sea_level": 1019,
+        "grnd_level": 1016,
+        "humidity": 61,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "سماء صافية",
+          "icon": "01d"
+        }
+      ],
+      "clouds": {
+        "all": 0
+      },
+      "wind": {
+        "speed": 2.69,
+        "deg": 6,
+        "gust": 3.14
+      },
+      "visibility": 10000,
+      "pop": 0,
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2023-05-13 06:00:00"
+    },
+    {
+      "dt": 1683968400,
+      "main": {
+        "temp": 298.16,
+        "feels_like": 297.66,
+        "temp_min": 298.16,
+        "temp_max": 298.16,
+        "pressure": 1018,
+        "sea_level": 1018,
+        "grnd_level": 1016,
+        "humidity": 36,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "سماء صافية",
+          "icon": "01d"
+        }
+      ],
+      "clouds": {
+        "all": 0
+      },
+      "wind": {
+        "speed": 2.64,
+        "deg": 0,
+        "gust": 3.64
+      },
+      "visibility": 10000,
+      "pop": 0,
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2023-05-13 09:00:00"
+    },
+    {
+      "dt": 1683979200,
+      "main": {
+        "temp": 303.88,
+        "feels_like": 301.96,
+        "temp_min": 303.88,
+        "temp_max": 303.88,
+        "pressure": 1016,
+        "sea_level": 1016,
+        "grnd_level": 1013,
+        "humidity": 19,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "سماء صافية",
+          "icon": "01d"
+        }
+      ],
+      "clouds": {
+        "all": 0
+      },
+      "wind": {
+        "speed": 3.57,
+        "deg": 335,
+        "gust": 5.1
+      },
+      "visibility": 10000,
+      "pop": 0,
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2023-05-13 12:00:00"
+    },
+    {
+      "dt": 1683990000,
+      "main": {
+        "temp": 303.98,
+        "feels_like": 301.96,
+        "temp_min": 303.98,
+        "temp_max": 303.98,
+        "pressure": 1016,
+        "sea_level": 1016,
+        "grnd_level": 1013,
+        "humidity": 15,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "غائم جزئي",
+          "icon": "02d"
+        }
+      ],
+      "clouds": {
+        "all": 11
+      },
+      "wind": {
+        "speed": 9.42,
+        "deg": 342,
+        "gust": 7.53
+      },
+      "visibility": 10000,
+      "pop": 0,
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2023-05-13 15:00:00"
+    },
+    {
+      "dt": 1684000800,
+      "main": {
+        "temp": 296.52,
+        "feels_like": 295.77,
+        "temp_min": 296.52,
+        "temp_max": 296.52,
+        "pressure": 1019,
+        "sea_level": 1019,
+        "grnd_level": 1016,
+        "humidity": 33,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "غيوم متفرقة",
+          "icon": "03n"
+        }
+      ],
+      "clouds": {
+        "all": 40
+      },
+      "wind": {
+        "speed": 7.84,
+        "deg": 355,
+        "gust": 9.29
+      },
+      "visibility": 10000,
+      "pop": 0,
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2023-05-13 18:00:00"
+    },
+    {
+      "dt": 1684011600,
+      "main": {
+        "temp": 292.54,
+        "feels_like": 292.08,
+        "temp_min": 292.54,
+        "temp_max": 292.54,
+        "pressure": 1019,
+        "sea_level": 1019,
+        "grnd_level": 1017,
+        "humidity": 59,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "غيوم متناثرة",
+          "icon": "04n"
+        }
+      ],
+      "clouds": {
+        "all": 68
+      },
+      "wind": {
+        "speed": 5.17,
+        "deg": 7,
+        "gust": 6.9
+      },
+      "visibility": 10000,
+      "pop": 0,
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2023-05-13 21:00:00"
+    },
+    {
+      "dt": 1684022400,
+      "main": {
+        "temp": 291.5,
+        "feels_like": 291.14,
+        "temp_min": 291.5,
+        "temp_max": 291.5,
+        "pressure": 1018,
+        "sea_level": 1018,
+        "grnd_level": 1015,
+        "humidity": 67,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "غيوم متناثرة",
+          "icon": "04n"
+        }
+      ],
+      "clouds": {
+        "all": 84
+      },
+      "wind": {
+        "speed": 4.36,
+        "deg": 14,
+        "gust": 5.98
+      },
+      "visibility": 10000,
+      "pop": 0,
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2023-05-14 00:00:00"
+    },
+    {
+      "dt": 1684033200,
+      "main": {
+        "temp": 290.82,
+        "feels_like": 290.47,
+        "temp_min": 290.82,
+        "temp_max": 290.82,
+        "pressure": 1017,
+        "sea_level": 1017,
+        "grnd_level": 1014,
+        "humidity": 70,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "غيوم قاتمة",
+          "icon": "04n"
+        }
+      ],
+      "clouds": {
+        "all": 100
+      },
+      "wind": {
+        "speed": 4.55,
+        "deg": 27,
+        "gust": 6.36
+      },
+      "visibility": 10000,
+      "pop": 0,
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2023-05-14 03:00:00"
+    },
+    {
+      "dt": 1684044000,
+      "main": {
+        "temp": 293.84,
+        "feels_like": 293.3,
+        "temp_min": 293.84,
+        "temp_max": 293.84,
+        "pressure": 1018,
+        "sea_level": 1018,
+        "grnd_level": 1015,
+        "humidity": 51,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "غيوم قاتمة",
+          "icon": "04d"
+        }
+      ],
+      "clouds": {
+        "all": 90
+      },
+      "wind": {
+        "speed": 5.25,
+        "deg": 13,
+        "gust": 6.57
+      },
+      "visibility": 10000,
+      "pop": 0,
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2023-05-14 06:00:00"
+    },
+    {
+      "dt": 1684054800,
+      "main": {
+        "temp": 301.16,
+        "feels_like": 299.95,
+        "temp_min": 301.16,
+        "temp_max": 301.16,
+        "pressure": 1016,
+        "sea_level": 1016,
+        "grnd_level": 1013,
+        "humidity": 22,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "غائم جزئي",
+          "icon": "02d"
+        }
+      ],
+      "clouds": {
+        "all": 19
+      },
+      "wind": {
+        "speed": 5.5,
+        "deg": 15,
+        "gust": 6.58
+      },
+      "visibility": 10000,
+      "pop": 0,
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2023-05-14 09:00:00"
+    },
+    {
+      "dt": 1684065600,
+      "main": {
+        "temp": 306.35,
+        "feels_like": 303.98,
+        "temp_min": 306.35,
+        "temp_max": 306.35,
+        "pressure": 1013,
+        "sea_level": 1013,
+        "grnd_level": 1010,
+        "humidity": 14,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "غائم جزئي",
+          "icon": "02d"
+        }
+      ],
+      "clouds": {
+        "all": 11
+      },
+      "wind": {
+        "speed": 5.37,
+        "deg": 20,
+        "gust": 6.3
+      },
+      "visibility": 10000,
+      "pop": 0,
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2023-05-14 12:00:00"
+    },
+    {
+      "dt": 1684076400,
+      "main": {
+        "temp": 306.8,
+        "feels_like": 304.36,
+        "temp_min": 306.8,
+        "temp_max": 306.8,
+        "pressure": 1012,
+        "sea_level": 1012,
+        "grnd_level": 1009,
+        "humidity": 13,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "غيوم متفرقة",
+          "icon": "03d"
+        }
+      ],
+      "clouds": {
+        "all": 39
+      },
+      "wind": {
+        "speed": 7.29,
+        "deg": 2,
+        "gust": 6.82
+      },
+      "visibility": 10000,
+      "pop": 0,
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2023-05-14 15:00:00"
+    },
+    {
+      "dt": 1684087200,
+      "main": {
+        "temp": 298.39,
+        "feels_like": 297.88,
+        "temp_min": 298.39,
+        "temp_max": 298.39,
+        "pressure": 1014,
+        "sea_level": 1014,
+        "grnd_level": 1011,
+        "humidity": 35,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "غيوم متفرقة",
+          "icon": "03n"
+        }
+      ],
+      "clouds": {
+        "all": 32
+      },
+      "wind": {
+        "speed": 7.74,
+        "deg": 21,
+        "gust": 9.95
+      },
+      "visibility": 10000,
+      "pop": 0,
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2023-05-14 18:00:00"
+    },
+    {
+      "dt": 1684098000,
+      "main": {
+        "temp": 294.06,
+        "feels_like": 293.72,
+        "temp_min": 294.06,
+        "temp_max": 294.06,
+        "pressure": 1014,
+        "sea_level": 1014,
+        "grnd_level": 1011,
+        "humidity": 58,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "غيوم متفرقة",
+          "icon": "03n"
+        }
+      ],
+      "clouds": {
+        "all": 28
+      },
+      "wind": {
+        "speed": 5.93,
+        "deg": 13,
+        "gust": 7.91
+      },
+      "visibility": 10000,
+      "pop": 0,
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2023-05-14 21:00:00"
+    },
+    {
+      "dt": 1684108800,
+      "main": {
+        "temp": 292.09,
+        "feels_like": 291.87,
+        "temp_min": 292.09,
+        "temp_max": 292.09,
+        "pressure": 1013,
+        "sea_level": 1013,
+        "grnd_level": 1010,
+        "humidity": 70,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "غيوم متفرقة",
+          "icon": "03n"
+        }
+      ],
+      "clouds": {
+        "all": 43
+      },
+      "wind": {
+        "speed": 4.6,
+        "deg": 28,
+        "gust": 6.83
+      },
+      "visibility": 10000,
+      "pop": 0,
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2023-05-15 00:00:00"
+    },
+    {
+      "dt": 1684119600,
+      "main": {
+        "temp": 291.5,
+        "feels_like": 291.38,
+        "temp_min": 291.5,
+        "temp_max": 291.5,
+        "pressure": 1012,
+        "sea_level": 1012,
+        "grnd_level": 1009,
+        "humidity": 76,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "غيوم قاتمة",
+          "icon": "04n"
+        }
+      ],
+      "clouds": {
+        "all": 100
+      },
+      "wind": {
+        "speed": 4.7,
+        "deg": 30,
+        "gust": 7.18
+      },
+      "visibility": 10000,
+      "pop": 0,
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2023-05-15 03:00:00"
+    },
+    {
+      "dt": 1684130400,
+      "main": {
+        "temp": 295.4,
+        "feels_like": 294.96,
+        "temp_min": 295.4,
+        "temp_max": 295.4,
+        "pressure": 1012,
+        "sea_level": 1012,
+        "grnd_level": 1009,
+        "humidity": 49,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "غيوم قاتمة",
+          "icon": "04d"
+        }
+      ],
+      "clouds": {
+        "all": 99
+      },
+      "wind": {
+        "speed": 5.98,
+        "deg": 29,
+        "gust": 7.61
+      },
+      "visibility": 10000,
+      "pop": 0,
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2023-05-15 06:00:00"
+    },
+    {
+      "dt": 1684141200,
+      "main": {
+        "temp": 303.34,
+        "feels_like": 301.49,
+        "temp_min": 303.34,
+        "temp_max": 303.34,
+        "pressure": 1010,
+        "sea_level": 1010,
+        "grnd_level": 1007,
+        "humidity": 18,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "غيوم متفرقة",
+          "icon": "03d"
+        }
+      ],
+      "clouds": {
+        "all": 42
+      },
+      "wind": {
+        "speed": 6.53,
+        "deg": 43,
+        "gust": 7.66
+      },
+      "visibility": 10000,
+      "pop": 0,
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2023-05-15 09:00:00"
+    },
+    {
+      "dt": 1684152000,
+      "main": {
+        "temp": 308.09,
+        "feels_like": 305.46,
+        "temp_min": 308.09,
+        "temp_max": 308.09,
+        "pressure": 1007,
+        "sea_level": 1007,
+        "grnd_level": 1005,
+        "humidity": 11,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "غائم جزئي",
+          "icon": "02d"
+        }
+      ],
+      "clouds": {
+        "all": 21
+      },
+      "wind": {
+        "speed": 6.75,
+        "deg": 47,
+        "gust": 7.07
+      },
+      "visibility": 10000,
+      "pop": 0,
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2023-05-15 12:00:00"
+    },
+    {
+      "dt": 1684162800,
+      "main": {
+        "temp": 306.04,
+        "feels_like": 303.77,
+        "temp_min": 306.04,
+        "temp_max": 306.04,
+        "pressure": 1007,
+        "sea_level": 1007,
+        "grnd_level": 1004,
+        "humidity": 16,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "سماء صافية",
+          "icon": "01d"
+        }
+      ],
+      "clouds": {
+        "all": 0
+      },
+      "wind": {
+        "speed": 8.47,
+        "deg": 45,
+        "gust": 7.84
+      },
+      "visibility": 10000,
+      "pop": 0,
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2023-05-15 15:00:00"
+    },
+    {
+      "dt": 1684173600,
+      "main": {
+        "temp": 299.26,
+        "feels_like": 299.26,
+        "temp_min": 299.26,
+        "temp_max": 299.26,
+        "pressure": 1009,
+        "sea_level": 1009,
+        "grnd_level": 1006,
+        "humidity": 37,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "سماء صافية",
+          "icon": "01n"
+        }
+      ],
+      "clouds": {
+        "all": 0
+      },
+      "wind": {
+        "speed": 7.9,
+        "deg": 44,
+        "gust": 10.51
+      },
+      "visibility": 10000,
+      "pop": 0,
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2023-05-15 18:00:00"
+    },
+    {
+      "dt": 1684184400,
+      "main": {
+        "temp": 295.81,
+        "feels_like": 295.52,
+        "temp_min": 295.81,
+        "temp_max": 295.81,
+        "pressure": 1009,
+        "sea_level": 1009,
+        "grnd_level": 1006,
+        "humidity": 53,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "سماء صافية",
+          "icon": "01n"
+        }
+      ],
+      "clouds": {
+        "all": 0
+      },
+      "wind": {
+        "speed": 6.9,
+        "deg": 45,
+        "gust": 11.71
+      },
+      "visibility": 10000,
+      "pop": 0,
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2023-05-15 21:00:00"
+    },
+    {
+      "dt": 1684195200,
+      "main": {
+        "temp": 294.44,
+        "feels_like": 294.19,
+        "temp_min": 294.44,
+        "temp_max": 294.44,
+        "pressure": 1008,
+        "sea_level": 1008,
+        "grnd_level": 1005,
+        "humidity": 60,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "سماء صافية",
+          "icon": "01n"
+        }
+      ],
+      "clouds": {
+        "all": 0
+      },
+      "wind": {
+        "speed": 5.08,
+        "deg": 43,
+        "gust": 9.21
+      },
+      "visibility": 10000,
+      "pop": 0,
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2023-05-16 00:00:00"
+    },
+    {
+      "dt": 1684206000,
+      "main": {
+        "temp": 293.41,
+        "feels_like": 293.16,
+        "temp_min": 293.41,
+        "temp_max": 293.41,
+        "pressure": 1008,
+        "sea_level": 1008,
+        "grnd_level": 1005,
+        "humidity": 64,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "غائم جزئي",
+          "icon": "02n"
+        }
+      ],
+      "clouds": {
+        "all": 23
+      },
+      "wind": {
+        "speed": 5.33,
+        "deg": 39,
+        "gust": 9.57
+      },
+      "visibility": 10000,
+      "pop": 0,
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2023-05-16 03:00:00"
+    },
+    {
+      "dt": 1684216800,
+      "main": {
+        "temp": 298.58,
+        "feels_like": 298.2,
+        "temp_min": 298.58,
+        "temp_max": 298.58,
+        "pressure": 1008,
+        "sea_level": 1008,
+        "grnd_level": 1005,
+        "humidity": 39,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "غيوم متفرقة",
+          "icon": "03d"
+        }
+      ],
+      "clouds": {
+        "all": 25
+      },
+      "wind": {
+        "speed": 6.19,
+        "deg": 47,
+        "gust": 8.28
+      },
+      "visibility": 10000,
+      "pop": 0,
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2023-05-16 06:00:00"
+    },
+    {
+      "dt": 1684227600,
+      "main": {
+        "temp": 306.43,
+        "feels_like": 304.23,
+        "temp_min": 306.43,
+        "temp_max": 306.43,
+        "pressure": 1007,
+        "sea_level": 1007,
+        "grnd_level": 1004,
+        "humidity": 18,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "سماء صافية",
+          "icon": "01d"
+        }
+      ],
+      "clouds": {
+        "all": 0
+      },
+      "wind": {
+        "speed": 5.38,
+        "deg": 49,
+        "gust": 5.39
+      },
+      "visibility": 10000,
+      "pop": 0,
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2023-05-16 09:00:00"
+    },
+    {
+      "dt": 1684238400,
+      "main": {
+        "temp": 310.36,
+        "feels_like": 307.57,
+        "temp_min": 310.36,
+        "temp_max": 310.36,
+        "pressure": 1006,
+        "sea_level": 1006,
+        "grnd_level": 1003,
+        "humidity": 11,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "سماء صافية",
+          "icon": "01d"
+        }
+      ],
+      "clouds": {
+        "all": 1
+      },
+      "wind": {
+        "speed": 3.63,
+        "deg": 29,
+        "gust": 2.9
+      },
+      "visibility": 10000,
+      "pop": 0,
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2023-05-16 12:00:00"
+    },
+    {
+      "dt": 1684249200,
+      "main": {
+        "temp": 310.62,
+        "feels_like": 307.73,
+        "temp_min": 310.62,
+        "temp_max": 310.62,
+        "pressure": 1005,
+        "sea_level": 1005,
+        "grnd_level": 1003,
+        "humidity": 10,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "غيوم متفرقة",
+          "icon": "03d"
+        }
+      ],
+      "clouds": {
+        "all": 46
+      },
+      "wind": {
+        "speed": 3.7,
+        "deg": 40,
+        "gust": 3.8
+      },
+      "visibility": 10000,
+      "pop": 0,
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2023-05-16 15:00:00"
+    },
+    {
+      "dt": 1684260000,
+      "main": {
+        "temp": 301.73,
+        "feels_like": 300.63,
+        "temp_min": 301.73,
+        "temp_max": 301.73,
+        "pressure": 1008,
+        "sea_level": 1008,
+        "grnd_level": 1005,
+        "humidity": 29,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "غيوم متناثرة",
+          "icon": "04n"
+        }
+      ],
+      "clouds": {
+        "all": 73
+      },
+      "wind": {
+        "speed": 7.97,
+        "deg": 46,
+        "gust": 10.93
+      },
+      "visibility": 10000,
+      "pop": 0,
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2023-05-16 18:00:00"
+    },
+    {
+      "dt": 1684270800,
+      "main": {
+        "temp": 298.3,
+        "feels_like": 297.86,
+        "temp_min": 298.3,
+        "temp_max": 298.3,
+        "pressure": 1010,
+        "sea_level": 1010,
+        "grnd_level": 1007,
+        "humidity": 38,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "غيوم متفرقة",
+          "icon": "03n"
+        }
+      ],
+      "clouds": {
+        "all": 48
+      },
+      "wind": {
+        "speed": 5.2,
+        "deg": 44,
+        "gust": 8.34
+      },
+      "visibility": 10000,
+      "pop": 0,
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2023-05-16 21:00:00"
+    },
+    {
+      "dt": 1684281600,
+      "main": {
+        "temp": 296.82,
+        "feels_like": 296.37,
+        "temp_min": 296.82,
+        "temp_max": 296.82,
+        "pressure": 1010,
+        "sea_level": 1010,
+        "grnd_level": 1007,
+        "humidity": 43,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "غائم جزئي",
+          "icon": "02n"
+        }
+      ],
+      "clouds": {
+        "all": 24
+      },
+      "wind": {
+        "speed": 3.93,
+        "deg": 36,
+        "gust": 5.93
+      },
+      "visibility": 10000,
+      "pop": 0,
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2023-05-17 00:00:00"
+    },
+    {
+      "dt": 1684292400,
+      "main": {
+        "temp": 296.03,
+        "feels_like": 295.57,
+        "temp_min": 296.03,
+        "temp_max": 296.03,
+        "pressure": 1010,
+        "sea_level": 1010,
+        "grnd_level": 1007,
+        "humidity": 46,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "سماء صافية",
+          "icon": "01n"
+        }
+      ],
+      "clouds": {
+        "all": 0
+      },
+      "wind": {
+        "speed": 4.26,
+        "deg": 33,
+        "gust": 6.55
+      },
+      "visibility": 10000,
+      "pop": 0,
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2023-05-17 03:00:00"
+    }
+  ],
+  "city": {
+    "id": 360630,
+    "name": "القاهرة",
+    "coord": {
+      "lat": 30.0626,
+      "lon": 31.2497
+    },
+    "country": "EG",
+    "population": 7734614,
+    "timezone": 10800,
+    "sunrise": 1683860630,
+    "sunset": 1683909539
+  }
+}
