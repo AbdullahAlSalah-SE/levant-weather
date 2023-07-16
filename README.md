@@ -32,7 +32,7 @@ Levant Weather app is open-source  app for Android & ios. It is built with Dart 
 
 
 
-<p><img src="snapshot/covere.png" /></p>
+<p><img src="snapshot/cover.png" /></p>
 <p align="center"><b>تطبيق طقس بلاد الشام</b></p>
 
 
